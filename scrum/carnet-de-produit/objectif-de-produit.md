@@ -6,5 +6,5 @@ Notre objectif est de reconstruire la machine distributrice originale pour qu'el
 ## Ce qu'on veut accomplir
 - Avoir une distributrice fiable qui livre les produits sans bloquer.
 - Ajouter une porte facile à ouvrir pour le remplissage et des capteurs fiables.
-- Intégrer un système de paiement par carte RFID avec des boutons de sélection.
+- Intégrer un système de paiement par carte avec des boutons de sélection.
 - Brancher la machine directement sur une prise murale standard de 120 V.
