@@ -13,130 +13,37 @@ Ce projet a pour objectif de produire une machine distributrice automatique modu
 |- README.md
 |
 |- images/
-|  |- bacs-et-moteurs.png
-|  |- boite-de-dos.png
-|  |- boite-de-face.png
-|  |- distributeur-sans-boite.png
+|  |-Ensemble des images utilisées dans la documentation. 
 |
 |- projet-original/
 |  |- documentations/
-|  |  |- Electronics Guide.pdf
-|  |  |- Vending Bill of Materials- Bill of Materials(1).pdf
-|  |  |- Vending Machine Build Guide (1).pdf
+|  |  |- Documentation originale fournie avec les fichiers originaux permettant la reproduction du projet.
 |  |- stl-originaux/
 |     |- Accessoires/
-|     |  |- Accesories.3mf
-|     |  |- Black Keypad Plate.stl
-|     |  |- Coin Reader.stl
-|     |  |- Coin Tray.stl
-|     |  |- Door solenoid Cover.stl
-|     |  |- Door solenoid.stl
-|     |  |- Flast Keypad.stl
+|     |  |- Ensemble des fichiers 3d afin de produire les différents accessoires.
 |     |- Coils/
-|     |  |- Coil 5 Items Left Hand.stl
-|     |  |- Coil 5 Items Right Hand.stl
-|     |  |- Coil 6 Items Left Hand.stl
-|     |  |- Coil 6 Items Right Hand.stl
-|     |  |- Coil 7 Items Left Hand.stl
-|     |  |- Coil 7 Items Right Hand.stl
-|     |  |- Coil 8 Items Left Hand.stl
-|     |  |- Coil 8 Items Right Hand.stl
-|     |  |- Coil 9 Items Left Hand.stl
-|     |  |- Coil 9 Items Right Hand.stl
-|     |  |- Coils.3mf
+|     |  |- Ensemble des fichiers 3d afin de produire les différentes variantes de vis sans fin.
 |     |- Door/
-|     |  |- Bottom Door Corner Hinge.stl
-|     |  |- Door 150mm Spacer(1)(1).stl
-|     |  |- Door Bottom Corner Latch.stl
-|     |  |- Door Bottom Corner Right.stl
-|     |  |- Door Glass Holder.stl
-|     |  |- Door Joiner.stl
-|     |  |- Door Straight Hinge.stl
-|     |  |- Door Straight Latch.stl
-|     |  |- Door Straight.stl
-|     |  |- Door Top Corner Hinge.stl
-|     |  |- Door Top Corner Right.stl
-|     |  |- Door.3mf
+|     |  |- Ensemble des fichiers 3d afin de produire les différentes pièces nécessaire pour la porte de la machine.
 |     |- Front Sides/
-|     |  |- Front Side Bottom Hinge.stl
-|     |  |- Front Side Bottom Right.stl
-|     |  |- Front side Hinger v2.stl
-|     |  |- Front Side Joiner Plate.stl
-|     |  |- Front Side Right Door Latch.stl
-|     |  |- Front Side Right.stl
-|     |  |- Front Sides.3mf
-|     |  |- Joiner Front Side to Module Side.stl
+|     |  |- Ensemble des fichiers 3d afin de produire les différentes pièces nécessaire pour le devant de la machine.
 |     |- Keypad/
-|     |  |- Button 0.stl
-|     |  |- Button 1.stl
-|     |  |- Button 2.stl
-|     |  |- Button 3.stl
-|     |  |- Button 4.stl
-|     |  |- Button 5.stl
-|     |  |- Button 6.stl
-|     |  |- Button 7.stl
-|     |  |- Button 8.stl
-|     |  |- Button 9.stl
-|     |  |- Button A.stl
-|     |  |- Button B.stl
-|     |  |- Button C.stl
-|     |  |- Button D.stl
-|     |  |- Button OK.stl
-|     |  |- Button X.stl
-|     |  |- Keypad Body.stl
-|     |  |- Keypad Front Plate.stl
+|     |  |- Ensemble des fichiers 3d afin de produire les différentes pièces nécessaire pour le clavier de la machine.
 |     |- Lid/
-|     |  |- Front Lid Edge v2.stl
-|     |  |- Front Lid Joiner.stl
-|     |  |- Front Lide Plate.stl
-|     |  |- Lid Edge v2.stl
-|     |  |- Lid Joiner.stl
-|     |  |- Lide Plate.stl
-|     |  |- Lid.3mf
-|     |  |- Plate Joiner.stl
+|     |  |- Ensemble des fichiers 3d afin de produire les différentes pièces nécessaire pour le couvercle de la machine.
 |     |- Module Sides/
-|     |  |- Bottom Module Side.stl
-|     |  |- Module Side.stl
-|     |  |- Module Sides.3mf
+|     |  |- Ensemble des fichiers 3d afin de produire les différentes pièces nécessaire pour les cotes de la machine.
 |     |- Modules/
-|     |  |- Back Stand Joiner.stl
-|     |  |- Back Stand.stl
-|     |  |- Double Label.stl
-|     |  |- Double Module.stl
-|     |  |- Lid Edge.stl
-|     |  |- Module Joiner.stl
-|     |  |- Modules.3mf
-|     |  |- Push Bin Joiner.stl
-|     |  |- Push Bin.stl
-|     |  |- Push Flap Non-AMS.stl
-|     |  |- Push Flap.stl
-|     |  |- Single Back Plate Top.stl
-|     |  |- Single Back Plate.stl
-|     |  |- Single label.stl
-|     |  |- Single Module.stl
-|     |- 3x4 Vending Machine Module Print List - Model Print List.pdf
+|     |  |- Ensemble des fichiers 3d afin de produire les différentes pièces nécessaire pour les modules contenant les differents produits a vendre.
 |- scrum/
 |  |- carnet-de-produit/
-|  |  |- carnet-de-produit.md
-|  |  |- objectif-de-produit.md
+|  |  |- Ensemble de la documentation expliquant la vision du projet et les diverses fonctionnalites prevus pour la machine. 
 |  |- sprint-1
-|  |  |- carnet-de-produit.md
-|  |  |- carnet-de-sprint.md
-|  |  |- objectif-de-sprint.md
-|  |  |- retro-de-sprint.md
-|  |  |- revue-de-sprint.md
+|  |  |- Ensemble de la documentation expliquant l'objectif sur sprint 1, les diverses taches a effectuer et la rétroaction a la fin de celui-ci.
 |  |- sprint-2
-|  |  |- carnet-de-produit.md
-|  |  |- carnet-de-sprint.md
-|  |  |- objectif-de-sprint.md
-|  |  |- retro-de-sprint.md
-|  |  |- revue-de-sprint.md
+|  |  |- Ensemble de la documentation expliquant l'objectif sur sprint 1, les diverses taches a effectuer et la rétroaction a la fin de celui-ci.
 |  |- sprint-3
-|  |  |- carnet-de-produit.md
-|  |  |- carnet-de-sprint.md
-|  |  |- objectif-de-sprint.md
-|  |  |- retro-de-sprint.md
-|  |  |- revue-de-sprint.md
+|  |  |- Ensemble de la documentation expliquant l'objectif sur sprint 1, les diverses taches a effectuer et la rétroaction a la fin de celui-ci.
 |  |- LICENSE
 
 ![image-produit](images/distributeur-sans-boite.png)
