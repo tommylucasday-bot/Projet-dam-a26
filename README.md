@@ -4,7 +4,7 @@
 ![image-produit](images/boite-de-face.png)
 
 ### Contexte :
-Dans le cadre du cours planification de projet nous devons produire un projet d'électronique pouvant être utilisés par les futurs étudiants afin de mettre en pratique diverses leçons vues en classes.
+Dans le cadre du cours de planification de projet, nous devons réaliser un projet d’électronique pouvant être utilisé par les futurs étudiants afin de mettre en pratique diverses notions vues en classe.
 ### Objectif :
 Ce projet a pour objectif de produire une machine distributrice automatique modulaire pouvant être personnalisée au gout du client que se sois selon la taille ou la couleur désirée mais aussi les moyens de paiements et les interfaces de contrôle désirés par celui-ci. 
 ### Structure du dépôt :
