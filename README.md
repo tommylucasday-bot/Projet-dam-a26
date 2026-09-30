@@ -43,5 +43,5 @@ Ce projet a pour objectif de produire une machine distributrice automatique modu
     - Ensemble de la documentation expliquant l'objectif sur sprint 1, les diverses taches a effectuer et la rétroaction a la fin de celui-ci.  
   - LICENSE  
 
-### Demarage
+### Démarage
 Afin de faire fonctionner le produit il suffira de le brancher a une source de tension 120v, de le remplir et d'indiquer les prix desirer pour les items a l'aide du code administrateur sur l'interface utilisateur.
