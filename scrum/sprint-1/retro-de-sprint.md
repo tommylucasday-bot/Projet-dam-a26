@@ -1,9 +1,9 @@
 # 🔄 Rétrospective du Sprint 1
 
-* **Date :** [2023-10-15]
-* **Durée :** 30 à 45 minutes
-* **Participants :** [Dominique Bastien, Jason Despatie]
-* **Facilitateur :** [Nom du Scrum Master / Animateur]
+* **Date :** [2023-10-20]
+* **Durée :** 15 à 20 minutes
+* **Participants :** Tommy Lucas-Day, Xavier Monpetit, Félix Gordon, Kylian Dylan Mopo Talom]
+* **Facilitateur :** [Kylian Dylan Mopo Talom]
 
 ---
 
