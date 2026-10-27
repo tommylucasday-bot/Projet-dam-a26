@@ -13,28 +13,26 @@ L'objectif de cette réunion est de faire le bilan du fonctionnement de l'équip
 ---
 
 ## 📊 2. Bilan des Métriques du Sprint
-* **Vélocité prévue :** [ex. 15 points / 3 User Stories]
-* **Vélocité réalisée :** [ex. 12 points / 2 User Stories]
-* **Engagement (*Sprint Goal*) :** [Atteint / Partiellement atteint / Non atteint]
+* **Vélocité prévue :** 6 objectifs majeurs (Boitier 3D, bacs/ressorts/moteurs DC, trappe de récupération, 4 boutons de sélection, écran d'affichage, système de monnaie)
+* **Vélocité réalisée :** 4 objectifs complétés sur 6 (boitier, mécanisme des bacs/moteurs, porte de récupération et boutons de sélections terminés)
+* **Engagement (*Sprint Goal*) :** partiellement atteint
 
 ---
 
 ## 🧠 3. Analyse de l'Équipe (Méthode Starfish / 4L)
 
 ### 🟢 Ce qui a bien fonctionné (*What went well / Keep Doing*)
-* [Exemple : La répartition des tâches sur le tableau Scrum était claire.]
-* [Exemple : Bonne entraide lors du câblage de la carte Arduino.]
+* Impression 3D et assemblage mécanique du boitier principal, des bacs de stockage et de la porte de récupération
+* fonctionnement réussie des moteurs DC pour la rotation des ressorts et des 4 boutons poussoirs de sélection
 
 ### 🔴 Ce qui a posé problème / Les obstacles (*What didn't go well*)
-* [Exemple : Problème de versioning Git avec l'envoi de gros fichiers vidéo sur GitHub.]
-* [Exemple : Estimation du temps pour l'impression 3D trop optimiste.]
-
+* Le temps d'Impression pour les pièces en 3D a été plus long que prévu (120h) et ceci a fait en sorte que le temps accorder au autres objectifs on été réduite
+* Sous-estimation de la charge de travail globale en voulant faire 6 objectifs au premier sprint.
 ### 💡 Pistes d'amélioration (*Ideas / Start Doing*)
-* [Exemple : Configurer un fichier .gitignore efficace dès le début du sprint.]
-* [Exemple : Faire des commits plus fréquents et plus petits.]
+* Découper en sous-objectifs l'intégration de l'écran et du sytème de monnaie pour la planification du sprint 
 
 ### 🚫 Ce qu'il faut arrêter (*Stop Doing*)
-* [Exemple : Attendre la veille de la revue pour tester l'assemblage global.]
+* Planifier toute la partie mécanique, l'affichage et la monnaie sur un seul sprint 
 
 ---
 
@@ -42,22 +40,28 @@ L'objectif de cette réunion est de faire le bilan du fonctionnement de l'équip
 
 | Élément | Évaluation (1 à 5) | Commentaires / Observations |
 | :--- | :---: | :--- |
-| **Communication interne** | ⭐⭐⭐⭐ | Utilisation efficace de Discord / Teams |
-| **Gestion Git / GitHub** | ⭐⭐ | Difficultés avec les gros fichiers et conflits de fusion |
-| **Respect du tableau Scrum** | ⭐⭐⭐ | Cartes déplacées en retard dans la colonne *Done* |
-| **Gestion du temps / Jalons** | ⭐⭐⭐ | Assemblage final fait à la dernière minute |
+| **Communication interne** | ⭐⭐⭐⭐ | Bonne communication pour l'impression et la modélisation 3D et le montage mécanique |
+| **Gestion Git / GitHub** | ⭐⭐ | manque de coordination sur l'utilisation du git hub, a améliorer |
+| **Respect du tableau Scrum** | ⭐⭐⭐ | Bon suivis des taches physiques, mais on pas eu beaucoup d'info sur l'avancement du code en général |
+| **Gestion du temps / Jalons** | ⭐⭐ | Trops d'objectifs complexe mis sur le sprint 1 = manque d'organisation |
 
 ---
 
 ## 🎯 5. Plan d'Action pour le Sprint 2 (Smart Actions)
 *Définir 2 à 3 actions concrètes et mesurables pour le prochain sprint :*
 
-1. **[Action 1]** Ajouter une règle d'exclusion `.gitignore` pour les médias lourds et utiliser des GIF/MP4 compressés.
-   * **Responsable :** [Nom]
-   * **Échéance :** Jour 1 du Sprint 2
-2. **[Action 2]** Réaliser une intégration mécanique/électronique intermédiaire à mi-sprint.
-   * **Responsable :** Toute l'équipe
+1. **[Action 1]** Faire un prototype pour l'affichage des prix. 
+   * **Responsable :** [Tommy Lucas-Day]
+   * **Échéance :** deuxième semaine du sprint 2
+2. **[Action 2]** Système de payement par carte.
+   * **Responsable :** [Xavier Monpetit]
+   * **Échéance :** Date mi-sprint
+3. **[Action 3]** Tester et aussi utiliser les différents capteurs pour la chute des objets.
+   * **Responsable :** [Félix Gordon]
    * **Échéance :** [Date mi-sprint]
+4. **[Action 4]** Mettre en place le solenoid de la porte et mettre en place la vitre de la porte.
+   * **Responsable :** Kylian Dylan Mopo Talom
+   * **Échéance :** [fin sprint 2]
 
 ---
 
